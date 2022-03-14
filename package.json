@@ -1,22 +1,22 @@
 {
-  "name": "hyperphone",
+  "name": "@web4/bitphone",
   "version": "1.0.0",
-  "description": "A telephone over Hyperbeam",
+  "description": "A telephone over Bitbeam",
   "main": "index.js",
   "bin": {
-    "hyperphone": "index.js"
+    "bitphone": "index.js"
   },
   "dependencies": {
-    "hyperbeam": "^1.1.1"
+    "@web4/bitbeam": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/hyperphone.git"
+    "url": "https://github.com/bitwebs/bitphone.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/hyperphone/issues"
+    "url": "https://github.com/bitwebs/bitphone/issues"
   },
-  "homepage": "https://github.com/mafintosh/hyperphone"
+  "homepage": "https://github.com/bitwebs/bitphone"
 }

@@ -1,9 +1,9 @@
-# hyperphone
+# bitphone
 
-A telephone over [Hyperbeam](https://github.com/mafintosh/hyperbeam)
+A telephone over [Bitbeam](https://github.com/bitwebs/bitbeam)
 
 ```
-npm install -g hyperphone
+npm install -g @web4/bitphone
 ```
 
 Needs sox installed.
@@ -25,13 +25,13 @@ sudo apt-get install sox
 On your computer
 
 ```sh
-hyperphone "your name and your friend"
+bitphone "your name and your friend"
 ```
 
 On your friends
 
 ```sh
-hyperphone "your name and your friend"
+bitphone "your name and your friend"
 ```
 
 Now your mic will be streamed to your friends audio and vice versa!
